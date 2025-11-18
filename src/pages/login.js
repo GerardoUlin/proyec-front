@@ -94,7 +94,7 @@ const LoginPage = () => {
                             El botón también se deshabilita (`disabled={loading}`) para prevenir múltiples envíos. */}
                         {loading ? <Spinner as="span" animation="border" size="sm" role="status" aria-hidden="true" /> : 'Ingresar'}
                     </Button>
-                    <p className="mt-5 mb-3 text-muted">Ptoyec UMG 2025</p>
+                    <p className="mt-5 mb-3 text-muted">Proyec UMG 2025</p>
                 </Form>
             </main>
         </div>
